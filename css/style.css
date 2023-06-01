@@ -46,6 +46,10 @@ body{
     background-size: 100% 40%;
 }
 
+.main{
+    min-height: 60vh;
+}
+
 .container{
     width: 80%;
     max-width: 1200px;
